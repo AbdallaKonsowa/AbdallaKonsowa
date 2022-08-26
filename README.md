@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AbdallaKonsowa
+- 👋 Hi, I’m @Abdalla Konsowa
 - 👀 I’m interested in Artificial Intelligence
 - 🌱 I’m currently learning from "hands-On Machine Learning with Scikit-Learn " Book
 - 💞️ I’m looking to collaborate on ...
